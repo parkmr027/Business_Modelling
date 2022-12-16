@@ -1,0 +1,6 @@
+
+
+Use Leave-20-out method, repeat the model such a way that all the observation should be taken as test data and training data. (n-20-times repeat)
+Use Logistic Regression, Neural Networks, K-Nearest Neighbor, Naïve bayes classifier, Decision tree
+Compare all the techniques in terms of Gmean, Accuracy, Precision, Recall, Sensitivity, Specificity
+
